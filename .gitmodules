@@ -1,0 +1,3 @@
+[submodule "client/work-desk-app"]
+	path = client/work-desk-app
+	url = https://github.com/dleetrident/Work-Desk-App.git
